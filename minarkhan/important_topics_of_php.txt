@@ -1,0 +1,25 @@
+Variables
+
+Loops
+
+Functions
+
+OOPs
+
+Sessions
+
+Cookies
+
+Server Variables
+
+POST,GET methods
+
+GD library
+
+Explode , implode function
+
+Require and include
+
+File Management
+
+Database stuff
