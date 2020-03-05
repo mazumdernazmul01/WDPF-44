@@ -1,0 +1,12 @@
+// to clone a repo
+git clone https://github.com/username/repo_name.git
+//to clone from a branch without master
+git clone https://github.com/username/repo_name.git -b branch-name
+
+//to push your commit
+git add .
+git commit -m "Your message"
+git push
+
+//to pull latest commits
+git pull
